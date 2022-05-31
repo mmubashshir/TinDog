@@ -1,3 +1,3 @@
 TinDog 
-#A tinder for dogs
+A Tinder for dogs
 Vist at: https://mmubashshir.github.io/TinDog/
